@@ -2,3 +2,12 @@
 .obsidian
 
 hypothesis\ config.md
+
+week-5-6/photogrammetry/photos
+
+*.jpg
+*.png
+*.pyc
+
+week-5-6/image-classifier/image-classifier/tf_files
+week-5-6/pixplot/img-work
