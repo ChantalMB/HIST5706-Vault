@@ -96,5 +96,5 @@ tags: tag1, tag2, etc
 + Slap this all into a Colab notebook to make it accessible
 + Reallyyyyy tempted to train a model to detect handwriting so I can find all of the little notes and such hidden in these scans
 + Put current output into PixPlot and go from where the clustering algorithim takes me --> very curious to see how these images will be classified
-	+ May want to run the most faded images through some sort of enhancement process first tho
+	+ May want to run the most faded images through some sort of enhancement process first tho (openCV?)
 
