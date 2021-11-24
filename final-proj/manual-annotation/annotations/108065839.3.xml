@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>108065839.3.jpg</filename>
+	<path>/home/cbrou/Desktop/YODH-project/annotating-training-imgs/images/108065839.3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>1044</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>img</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>512</ymin>
+			<xmax>457</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+</annotation>
